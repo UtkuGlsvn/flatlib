@@ -13,9 +13,9 @@
 #   Essential Dignities   #
 # ----------------------- #
 
-SIGN_LIST = ['Aries', 'Taurus', 'Gemini', 'Cancer',
+SIGN_LIST = ['Koç', 'Taurus', 'Gemini', 'Cancer',
              'Leo', 'Virgo', 'Libra', 'Scorpio',
-             'Sagittarius', 'Capricorn', 'Aquarius', 
+             'Sagittarius', 'Oğlak', 'Aquarius', 
              'Pisces']
 
 
@@ -33,7 +33,7 @@ CHALDEAN_FACES = {
     'Libra': ['Moon', 'Saturn', 'Jupiter'],
     'Scorpio': ['Mars', 'Sun', 'Venus'],
     'Sagittarius': ['Mercury', 'Moon', 'Saturn'],
-    'Capricorn': ['Jupiter', 'Mars', 'Sun'],
+    'Oğlak': ['Jupiter', 'Mars', 'Sun'],
     'Aquarius': ['Venus', 'Mercury', 'Moon'],
     'Pisces': ['Saturn', 'Jupiter', 'Mars']
 }

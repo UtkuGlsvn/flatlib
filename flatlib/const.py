@@ -2,10 +2,8 @@
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
     
-
     This module defines the names of signs, objects, angles, 
     houses and fixed-stars used in the library.
-
 """
 
 
@@ -53,18 +51,18 @@ MOON_LAST_QUARTER = 'Last Quarter'
 
 # === Signs === */
 
-ARIES = 'Koç'
-TAURUS = 'Boğa'
-GEMINI = 'İkizler'
-CANCER = 'Yengeç'
-LEO = 'Aslan'
-VIRGO = 'Başak'
-LIBRA = 'Terazi'
-SCORPIO = 'Akrep'
-SAGITTARIUS = 'Yay'
-CAPRICORN = 'Oğlak'
-AQUARIUS = 'Kova'
-PISCES = 'Balık'
+ARIES = 'Aries'
+TAURUS = 'Taurus'
+GEMINI = 'Gemini'
+CANCER = 'Cancer'
+LEO = 'Leo'
+VIRGO = 'Virgo'
+LIBRA = 'Libra'
+SCORPIO = 'Scorpio'
+SAGITTARIUS = 'Sagittarius'
+CAPRICORN = 'Capricorn'
+AQUARIUS = 'Aquarius'
+PISCES = 'Pisces'
 
 # Sign modes
 CARDINAL = 'Cardinal'
